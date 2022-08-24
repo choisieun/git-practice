@@ -1,4 +1,4 @@
-sender : b
-receiver : a
+sender : bravo
+receiver : alpha
 
 Hello
