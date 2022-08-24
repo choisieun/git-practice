@@ -1,4 +1,4 @@
 sender : alpha
-receiver : bravo
+receiver : charlie
 
 Hello there!
