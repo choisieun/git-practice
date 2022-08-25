@@ -1,4 +1,8 @@
 sender : bravo
 receiver : charlie
 
+<<<<<<< HEAD
 Hello Hi
+=======
+Hello there!
+>>>>>>> 2850ddc9d040235686cb82c7cfc644fc4a0632ac
